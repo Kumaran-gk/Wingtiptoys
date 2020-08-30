@@ -1,0 +1,22 @@
+﻿Important Items that needs to be covered on this Project
+-------------------------------------------------------
+1. Client Application to created
+  - Client Created
+  - Connection string configured
+  - Unit of Work (Reference tables NA) & Product Repository needs to be created in this Project
+2. DB SQL Creation and Use EF to add the model object creation
+  - Added EF Packages, Creating Model Classes
+  - Localized the MDF File in the Project
+3. Switch to the MDF and get it on the local folder
+     - Added & Referred from the local folder
+4. Accessing Image files for local folder
+     - Added to the local folder 
+5. Code to show up the list
+6. Search the Product Car
+7. Singleton for Log - Pending
+8. Unit test
+9. Dependency Injection - Pending
+10. Auth & Authorization - Pending
+11. Error Handling - Pending
+
+NB!! - Mark the task that can be covered as TO DO.

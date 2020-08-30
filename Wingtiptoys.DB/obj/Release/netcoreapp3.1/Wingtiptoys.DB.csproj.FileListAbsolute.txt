@@ -1,0 +1,13 @@
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Data\wingtiptoys.mdf
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Data\wingtiptoys_log.ldf
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Wingtiptoys.DB.deps.json
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Wingtiptoys.DB.runtimeconfig.json
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Wingtiptoys.DB.runtimeconfig.dev.json
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Wingtiptoys.DB.dll
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\bin\Release\netcoreapp3.1\Wingtiptoys.DB.pdb
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.AssemblyInfoInputs.cache
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.AssemblyInfo.cs
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.csproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.dll
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.pdb
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.DB\obj\Release\netcoreapp3.1\Wingtiptoys.DB.genruntimeconfig.cache

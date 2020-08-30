@@ -1,0 +1,4 @@
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.clientWingtiptoys.Test\obj\Debug\netcoreapp3.1\Wingtiptoys.clientWingtiptoys.Test.csprojAssemblyReference.cache
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.clientWingtiptoys.Test\obj\Debug\netcoreapp3.1\Wingtiptoys.clientWingtiptoys.Test.AssemblyInfoInputs.cache
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.clientWingtiptoys.Test\obj\Debug\netcoreapp3.1\Wingtiptoys.clientWingtiptoys.Test.AssemblyInfo.cs
+C:\Users\kumar\source\repos\Wingtiptoys\Wingtiptoys.clientWingtiptoys.Test\obj\Debug\netcoreapp3.1\Wingtiptoys.clientWingtiptoys.Test.csproj.CoreCompileInputs.cache
